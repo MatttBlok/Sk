@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="282px" height="282px" viewBox="0 0 282 282" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval</title>
+    <desc>Created with Sketch.</desc>
+    <g id="UI_Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="0,16" stroke-linecap="round" stroke-linejoin="round">
+        <g id="00a_SkillCorner_Desktop_Homepage" transform="translate(-342.000000, -314.000000)" fill-rule="nonzero" stroke="#FFFFFF">
+            <g id="Group-4" transform="translate(343.000000, 315.000000)">
+                <g id="Group-5">
+                    <path d="M140,280 C217.319865,280 280,217.319865 280,140 C280,62.680135 217.319865,0 140,0 C62.680135,0 0,62.680135 0,140 C0,217.319865 62.680135,280 140,280 Z" id="Oval"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
